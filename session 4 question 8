@@ -1,0 +1,12 @@
+name=input("Please enter name :")
+
+print("Hello")
+print(name)
+age=float(input("How old are you :"))
+
+print("Hello")
+print(name)
+print("Next year you will be")
+
+
+print(age+1)
